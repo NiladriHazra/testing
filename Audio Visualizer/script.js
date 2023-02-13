@@ -108,4 +108,5 @@ window.addEventListener('resize', () => {
     }
 });
 
-const audioUpload = document.getElementById('audio-upload');
+const audioUpload = document.getElementById('audio-upload');
+const playPauseBtn = document.getElementById('play-pause-btn');
