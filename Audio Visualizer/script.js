@@ -118,4 +118,5 @@ const canvasCtx = visualizerCanvas.getContext('2d');
 let audioCtx;
 let analyser;
 let source;
-let isPlaying = false;
+let isPlaying = false;
+
