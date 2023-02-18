@@ -139,4 +139,5 @@ function setupAudioContext() {
         // Start the visualization loop
         drawVisualizer(bufferLength, dataArray);
     }
-}
+}
+
