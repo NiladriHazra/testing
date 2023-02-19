@@ -141,4 +141,5 @@ function setupAudioContext() {
     }
 }
 
-// Function to handle the audio file upload
+// Function to handle the audio file upload
+audioUpload.addEventListener('change', (e) => {
