@@ -150,4 +150,5 @@ audioUpload.addEventListener('change', (e) => {
         playPauseBtn.disabled = false;
         playPauseBtn.textContent = "Play";
         isPlaying = false;
-        
+        
+        // Set up the audio context once a file is loaded
