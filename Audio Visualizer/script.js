@@ -158,4 +158,5 @@ audioUpload.addEventListener('change', (e) => {
 
 // Function to play or pause the audio
 playPauseBtn.addEventListener('click', () => {
-    if (audioSource.paused) {
+    if (audioSource.paused) {
+        audioSource.play();
