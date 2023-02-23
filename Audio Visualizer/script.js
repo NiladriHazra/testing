@@ -169,4 +169,5 @@ playPauseBtn.addEventListener('click', () => {
     }
 });
 
-// Function to draw the visualizer
+// Function to draw the visualizer
+function drawVisualizer(bufferLength, dataArray) {
