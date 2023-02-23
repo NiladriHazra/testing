@@ -167,4 +167,5 @@ playPauseBtn.addEventListener('click', () => {
         playPauseBtn.textContent = "Play";
         isPlaying = false;
     }
-});
+});
+
