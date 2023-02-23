@@ -168,4 +168,5 @@ playPauseBtn.addEventListener('click', () => {
         isPlaying = false;
     }
 });
-
+
+// Function to draw the visualizer
