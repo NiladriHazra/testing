@@ -180,4 +180,5 @@ function drawVisualizer(bufferLength, dataArray) {
     
     // Request the next frame
     requestAnimationFrame(() => drawVisualizer(bufferLength, dataArray));
-    
+    
+    // Get the frequency data
