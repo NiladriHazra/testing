@@ -200,4 +200,5 @@ function drawVisualizer(bufferLength, dataArray) {
         x += barWidth + 1; // Add a small gap between bars
     }
 }
-
+
+// Ensure the audio context starts on a user gesture
