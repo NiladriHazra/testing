@@ -199,4 +199,5 @@ function drawVisualizer(bufferLength, dataArray) {
         
         x += barWidth + 1; // Add a small gap between bars
     }
-}
+}
+
