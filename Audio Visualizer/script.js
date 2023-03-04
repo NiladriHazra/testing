@@ -212,4 +212,5 @@ document.addEventListener('click', () => {
 window.addEventListener('resize', () => {
     if (isPlaying) {
         // Redraw the visualizer if a song is playing
-        const bufferLength = analyser.frequencyBinCount;
+        const bufferLength = analyser.frequencyBinCount;
+        const dataArray = new Uint8Array(bufferLength);
