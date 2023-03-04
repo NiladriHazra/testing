@@ -210,4 +210,5 @@ document.addEventListener('click', () => {
 
 // Handle window resize to keep the canvas responsive
 window.addEventListener('resize', () => {
-    if (isPlaying) {
+    if (isPlaying) {
+        // Redraw the visualizer if a song is playing
