@@ -125,4 +125,5 @@ footer {
 body {
     margin: 0;
     font-family: 'Inter', sans-serif;
-    background-color: var(--bg-color);
+    background-color: var(--bg-color);
+    color: var(--text-color);
