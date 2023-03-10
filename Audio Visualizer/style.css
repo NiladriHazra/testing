@@ -127,4 +127,5 @@ body {
     font-family: 'Inter', sans-serif;
     background-color: var(--bg-color);
     color: var(--text-color);
-    display: flex;
+    display: flex;
+    justify-content: center;
