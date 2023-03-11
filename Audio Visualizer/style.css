@@ -134,4 +134,5 @@ body {
     padding: 20px;
 }
 
-.container {
+.container {
+    display: flex;
