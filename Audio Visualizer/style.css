@@ -163,4 +163,5 @@ p {
     color: #a0aec0;
 }
 
-.controls {
+.controls {
+    display: flex;
