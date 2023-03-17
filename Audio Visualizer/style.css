@@ -169,4 +169,5 @@ p {
     margin-bottom: 24px;
 }
 
-#audio-upload {
+#audio-upload {
+    color: var(--text-color);
