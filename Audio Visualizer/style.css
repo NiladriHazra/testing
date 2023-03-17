@@ -171,4 +171,5 @@ p {
 
 #audio-upload {
     color: var(--text-color);
-    background-color: #4a5568;
+    background-color: #4a5568;
+    border-radius: 8px;
