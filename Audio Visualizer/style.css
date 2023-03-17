@@ -164,4 +164,5 @@ p {
 }
 
 .controls {
-    display: flex;
+    display: flex;
+    gap: 16px;
