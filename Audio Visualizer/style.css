@@ -179,4 +179,5 @@ p {
     transition: background-color 0.2s ease;
 }
 
-#audio-upload::-webkit-file-upload-button {
+#audio-upload::-webkit-file-upload-button {
+    background-color: var(--primary-color);
