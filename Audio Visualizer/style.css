@@ -193,4 +193,5 @@ p {
     background-color: #3b3f8f;
 }
 
-button {
+button {
+    background-color: var(--primary-color);
