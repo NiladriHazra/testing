@@ -214,4 +214,5 @@ button:disabled {
     cursor: not-allowed;
 }
 
-#visualizer {
+#visualizer {
+    background-color: #1a202c;
