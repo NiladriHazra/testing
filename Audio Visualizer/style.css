@@ -220,4 +220,5 @@ button:disabled {
     border: 2px solid var(--border-color);
 }
 
-footer {
+footer {
+    margin-top: 24px;
