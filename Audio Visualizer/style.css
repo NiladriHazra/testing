@@ -216,4 +216,5 @@ button:disabled {
 
 #visualizer {
     background-color: #1a202c;
-    border-radius: 8px;
+    border-radius: 8px;
+    border: 2px solid var(--border-color);
