@@ -127,7 +127,7 @@ body {
     font-family: 'Inter', sans-serif;
     background-color: var(--bg-color);
     color: var(--text-color);
-    display: flex;
+    display: flex; // updated
     justify-content: center;
     align-items: center;
     min-height: 100vh;
