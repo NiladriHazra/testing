@@ -10,7 +10,7 @@ app.use(express.static(path.join(__dirname, '/')));
 app.listen(port, () => { // updated
   console.log(`Server is running at http://localhost:${port}`);
   console.log('Open this URL in your browser to see the visualizer.');
-});
+}); // updated
 // minor change added
 const express = require('express');
 const path = require('path');
