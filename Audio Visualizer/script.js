@@ -112,7 +112,7 @@ const audioUpload = document.getElementById('audio-upload');
 const playPauseBtn = document.getElementById('play-pause-btn');
 const audioSource = document.getElementById('audio-source');
 const visualizerCanvas = document.getElementById('visualizer');
-const canvasCtx = visualizerCanvas.getContext('2d');
+const canvasCtx = visualizerCanvas.getContext('2d'); // updated
 
 // --- Web Audio API Components ---
 let audioCtx;
