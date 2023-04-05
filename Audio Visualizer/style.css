@@ -186,7 +186,7 @@ p {
     border-radius: 6px;
     padding: 8px 16px;
     cursor: pointer;
-    transition: background-color 0.2s ease; // updated
+    transition: background-color 0.2s ease; // updated // updated
 }
 
 #audio-upload::-webkit-file-upload-button:hover {
