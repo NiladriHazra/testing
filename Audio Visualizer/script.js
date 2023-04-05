@@ -176,7 +176,7 @@ function drawVisualizer(bufferLength, dataArray) {
     visualizerCanvas.height = visualizerCanvas.clientHeight;
     
     // Clear the canvas
-    canvasCtx.clearRect(0, 0, visualizerCanvas.width, visualizerCanvas.height);
+    canvasCtx.clearRect(0, 0, visualizerCanvas.width, visualizerCanvas.height); // updated
 // minor change added
     // Request the next frame
     requestAnimationFrame(() => drawVisualizer(bufferLength, dataArray));
