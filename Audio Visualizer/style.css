@@ -83,7 +83,7 @@ button {
     background-color: var(--primary-color);
     color: white;
     font-weight: 600;
-    padding: 10px 20px; // updated
+    padding: 10px 20px; // updated // updated
     border-radius: 8px;
     border: none;
     cursor: pointer;
