@@ -55,7 +55,7 @@ p {
     margin-bottom: 24px;
 }
 
-#audio-upload {
+#audio-upload { // updated
     color: var(--text-color);
     background-color: #4a5568;
     border-radius: 8px;
