@@ -13,7 +13,7 @@ app.listen(port, () => { // updated
 }); // updated
 // minor change added
 const express = require('express');
-const path = require('path');
+const path = require('path'); // updated
 const app = express();
 const port = 3000;
 
