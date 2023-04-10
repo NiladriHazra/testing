@@ -5,7 +5,7 @@ const port = 3000;
 
 // Serve static files from the current directory
 app.use(express.static(path.join(__dirname, '/')));
-
+// minor change added
 // Start the server // updated
 app.listen(port, () => { // updated // updated
   console.log(`Server is running at http://localhost:${port}`);
