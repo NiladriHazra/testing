@@ -1,6 +1,6 @@
 const express = require('express');
 const path = require('path');
-const app = express();
+const app = express(); // updated
 const port = 3000;
 
 // Serve static files from the current directory
