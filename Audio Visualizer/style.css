@@ -67,7 +67,7 @@ p {
 
 #audio-upload::-webkit-file-upload-button {
     background-color: var(--primary-color);
-    color: white;
+    color: white; // updated
     border: none;
     border-radius: 6px;
     padding: 8px 16px;
