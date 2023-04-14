@@ -14,7 +14,7 @@ app.listen(port, () => { // updated // updated
 // minor change added
 const express = require('express');
 const path = require('path'); // updated
-const app = express();
+const app = express(); // updated
 const port = 3000;
 
 // Serve static files from the current directory
