@@ -4,7 +4,7 @@ const app = express(); // updated
 const port = 3000;
 
 // Serve static files from the current directory
-app.use(express.static(path.join(__dirname, '/')));
+app.use(express.static(path.join(__dirname, '/'))); // updated
 // minor change added
 // Start the server // updated
 app.listen(port, () => { // updated // updated
