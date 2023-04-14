@@ -32,7 +32,7 @@ function setupAudioContext() {
 }
 
 // Function to handle the audio file upload
-audioUpload.addEventListener('change', (e) => {
+audioUpload.addEventListener('change', (e) => { // updated
     const file = e.target.files[0];
     if (file) {
         const fileURL = URL.createObjectURL(file);
