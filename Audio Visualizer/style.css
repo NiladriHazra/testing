@@ -56,7 +56,7 @@ p {
 }
 
 #audio-upload { // updated // updated
-    color: var(--text-color);
+    color: var(--text-color); // updated
     background-color: #4a5568;
     border-radius: 8px;
     padding: 8px 12px;
