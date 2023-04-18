@@ -139,7 +139,7 @@ function setupAudioContext() {
         // Start the visualization loop
         drawVisualizer(bufferLength, dataArray); // updated
     }
-} // updated
+} // updated // updated
 
 // Function to handle the audio file upload
 audioUpload.addEventListener('change', (e) => {
