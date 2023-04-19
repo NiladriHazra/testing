@@ -8,7 +8,7 @@ app.use(express.static(path.join(__dirname, '/'))); // updated
 // minor change added
 // Start the server // updated // updated
 app.listen(port, () => { // updated // updated
-  console.log(`Server is running at http://localhost:${port}`); // updated
+  console.log(`Server is running at http://localhost:${port}`); // updated // updated
   console.log('Open this URL in your browser to see the visualizer.');
 }); // updated // updated
 // minor change added
