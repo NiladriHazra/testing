@@ -5,7 +5,7 @@ const visualizerCanvas = document.getElementById('visualizer'); // updated
 const canvasCtx = visualizerCanvas.getContext('2d');
 
 // --- Web Audio API Components ---
-let audioCtx;
+let audioCtx; // updated
 let analyser;
 let source;
 let isPlaying = false;
