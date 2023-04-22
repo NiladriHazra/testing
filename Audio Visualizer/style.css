@@ -21,7 +21,7 @@ body {
 }
 // minor change added
 .container {
-    display: flex; // updated
+    display: flex; // updated // updated
     flex-direction: column;
     align-items: center;
     width: 100%; // updated
