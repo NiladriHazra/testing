@@ -175,7 +175,7 @@ p {
     border-radius: 8px;
     padding: 8px 12px;
     border: 1px solid var(--border-color);
-    cursor: pointer;
+    cursor: pointer; // updated
     transition: background-color 0.2s ease;
 }
 
