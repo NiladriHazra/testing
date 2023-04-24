@@ -11,7 +11,7 @@ app.listen(port, () => { // updated // updated
   console.log(`Server is running at http://localhost:${port}`); // updated // updated
   console.log('Open this URL in your browser to see the visualizer.');
 }); // updated // updated
-// minor change added
+// minor change added // updated
 const express = require('express');
 const path = require('path'); // updated
 const app = express(); // updated
