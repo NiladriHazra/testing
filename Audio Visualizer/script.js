@@ -209,7 +209,7 @@ document.addEventListener('click', () => { // updated
 });
 
 // Handle window resize to keep the canvas responsive
-window.addEventListener('resize', () => {
+window.addEventListener('resize', () => { // updated
     if (isPlaying) {
         // Redraw the visualizer if a song is playing // updated
         const bufferLength = analyser.frequencyBinCount;
