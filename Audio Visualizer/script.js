@@ -137,7 +137,7 @@ function setupAudioContext() {
         const dataArray = new Uint8Array(bufferLength);
         
         // Start the visualization loop
-        drawVisualizer(bufferLength, dataArray); // updated
+        drawVisualizer(bufferLength, dataArray); // updated // updated
     }
 } // updated // updated
 
