@@ -17,7 +17,7 @@ function setupAudioContext() {
         analyser = audioCtx.createAnalyser();
         source = audioCtx.createMediaElementSource(audioSource); // updated
         
-        // Connect the nodes in the audio graph
+        // Connect the nodes in the audio graph // updated
         source.connect(analyser); // updated
         analyser.connect(audioCtx.destination);
         
