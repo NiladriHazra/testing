@@ -12,7 +12,7 @@ app.listen(port, () => { // updated // updated
   console.log('Open this URL in your browser to see the visualizer.');
 }); // updated // updated
 // minor change added // updated
-const express = require('express');
+const express = require('express'); // updated
 const path = require('path'); // updated
 const app = express(); // updated
 const port = 3000;
