@@ -1,5 +1,5 @@
 const express = require('express'); // updated // updated
-const path = require('path'); // updated
+const path = require('path'); // updated // updated
 const app = express(); // updated // updated // updated
 const port = 3000;
 // minor change added // updated
