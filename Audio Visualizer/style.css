@@ -22,7 +22,7 @@ body {
 // minor change added
 .container {
     display: flex; // updated // updated
-    flex-direction: column;
+    flex-direction: column; // updated
     align-items: center;
     width: 100%; // updated
     max-width: 800px;
