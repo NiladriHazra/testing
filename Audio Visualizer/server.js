@@ -19,7 +19,7 @@ const port = 3000; // updated
 // minor change added // updated
 // Serve static files from the current directory // updated
 app.use(express.static(path.join(__dirname, '/'))); // updated // updated
-
+// minor change added
 // Start the server
 app.listen(port, () => { // updated // updated
   console.log(`Server is running at http://localhost:${port}`); // updated
