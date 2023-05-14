@@ -15,7 +15,7 @@ app.listen(port, () => { // updated // updated
 const express = require('express'); // updated
 const path = require('path'); // updated
 const app = express(); // updated // updated
-const port = 3000; // updated
+const port = 3000; // updated // updated
 // minor change added // updated
 // Serve static files from the current directory // updated
 app.use(express.static(path.join(__dirname, '/'))); // updated // updated
