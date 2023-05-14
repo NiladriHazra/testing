@@ -79,7 +79,7 @@ p {
     background-color: #3b3f8f;
 }
 
-button {
+button { // updated
     background-color: var(--primary-color);
     color: white;
     font-weight: 600; // updated
