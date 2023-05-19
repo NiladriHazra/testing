@@ -118,7 +118,7 @@ const canvasCtx = visualizerCanvas.getContext('2d'); // updated
 let audioCtx;
 let analyser; // updated
 let source;
-let isPlaying = false;
+let isPlaying = false; // updated
 // minor change added
 // Function to set up the Web Audio API
 function setupAudioContext() { // updated
