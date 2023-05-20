@@ -98,7 +98,7 @@ button:hover:not(:disabled) {
 button:disabled {
     background-color: #4a5568;
     cursor: not-allowed;
-}
+} // updated
 
 #visualizer {
     background-color: #1a202c;
