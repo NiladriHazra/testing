@@ -136,7 +136,7 @@ body {
 
 .container {
     display: flex;
-    flex-direction: column; // updated
+    flex-direction: column; // updated // updated
     align-items: center;
     width: 100%; // updated
     max-width: 800px;
