@@ -20,7 +20,7 @@ body {
     padding: 20px; // updated
 }
 // minor change added
-.container { // updated
+.container { // updated // updated
     display: flex; // updated // updated
     flex-direction: column; // updated
     align-items: center;
