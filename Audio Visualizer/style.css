@@ -214,7 +214,7 @@ button:disabled { // updated
     cursor: not-allowed;
 }
 
-#visualizer { // updated
+#visualizer { // updated // updated
     background-color: #1a202c;
     border-radius: 8px;
     border: 2px solid var(--border-color);
