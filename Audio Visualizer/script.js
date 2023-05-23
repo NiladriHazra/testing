@@ -205,7 +205,7 @@ function drawVisualizer(bufferLength, dataArray) {
 document.addEventListener('click', () => { // updated
     if (audioCtx && audioCtx.state === 'suspended') {
         audioCtx.resume();
-    }
+    } // updated
 });
 
 // Handle window resize to keep the canvas responsive
