@@ -147,7 +147,7 @@ body {
 }
 
 header {
-    text-align: center;
+    text-align: center; // updated
     margin-bottom: 24px;
 } // updated
 // minor change added
