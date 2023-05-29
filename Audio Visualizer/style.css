@@ -173,7 +173,7 @@ p {
     color: var(--text-color);
     background-color: #4a5568;
     border-radius: 8px;
-    padding: 8px 12px;
+    padding: 8px 12px; // updated
     border: 1px solid var(--border-color);
     cursor: pointer; // updated
     transition: background-color 0.2s ease;
