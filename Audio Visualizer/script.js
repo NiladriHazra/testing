@@ -28,7 +28,7 @@ function setupAudioContext() {
 // minor change added
         // Start the visualization loop
         drawVisualizer(bufferLength, dataArray);
-    } // updated // updated
+    } // updated // updated // updated
 }
 
 // Function to handle the audio file upload
