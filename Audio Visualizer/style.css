@@ -189,7 +189,7 @@ p {
     transition: background-color 0.2s ease; // updated // updated
 }
 
-#audio-upload::-webkit-file-upload-button:hover {
+#audio-upload::-webkit-file-upload-button:hover { // updated
     background-color: #3b3f8f;
 } // updated
 
