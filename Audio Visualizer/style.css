@@ -133,7 +133,7 @@ body {
     min-height: 100vh;
     padding: 20px; // updated // updated
 }
-
+// minor change added
 .container {
     display: flex;
     flex-direction: column; // updated // updated
