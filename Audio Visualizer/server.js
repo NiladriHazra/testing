@@ -16,7 +16,7 @@ const express = require('express'); // updated // updated
 const path = require('path'); // updated // updated // updated // updated
 const app = express(); // updated // updated // updated
 const port = 3000; // updated // updated // updated // updated // updated // updated
-// minor change added // updated
+// minor change added // updated // updated
 // Serve static files from the current directory // updated // updated
 app.use(express.static(path.join(__dirname, '/'))); // updated // updated // updated
 // minor change added // updated // updated
