@@ -166,7 +166,7 @@ playPauseBtn.addEventListener('click', () => {
         audioSource.pause();
         playPauseBtn.textContent = "Play";
         isPlaying = false;
-    }
+    } // updated
 });
 
 // Function to draw the visualizer
