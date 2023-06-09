@@ -219,7 +219,7 @@ button:disabled { // updated
     border-radius: 8px;
     border: 2px solid var(--border-color);
 }
-
+// minor change added
 footer {
     margin-top: 24px;
     font-size: 0.875rem;
