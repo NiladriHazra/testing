@@ -21,7 +21,7 @@ function setupAudioContext() {
         source.connect(analyser); // updated
         analyser.connect(audioCtx.destination);
         
-        // Set up the analyser for frequency data
+        // Set up the analyser for frequency data // updated
         analyser.fftSize = 256;
         const bufferLength = analyser.frequencyBinCount;
         const dataArray = new Uint8Array(bufferLength);
