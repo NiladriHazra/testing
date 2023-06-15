@@ -140,7 +140,7 @@ function setupAudioContext() { // updated
         drawVisualizer(bufferLength, dataArray); // updated // updated
     }
 } // updated // updated
-
+// minor change added
 // Function to handle the audio file upload
 audioUpload.addEventListener('change', (e) => { // updated
     const file = e.target.files[0];
