@@ -146,7 +146,7 @@ body {
     box-shadow: 0 10px 15px rgba(0, 0, 0, 0.2);
 }
 // minor change added
-header {
+header { // updated
     text-align: center; // updated
     margin-bottom: 24px;
 } // updated
