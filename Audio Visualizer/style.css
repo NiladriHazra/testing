@@ -155,7 +155,7 @@ h1 {
     font-size: 2.5rem;
     font-weight: 700; // updated
     color: var(--secondary-color); // updated
-    margin-bottom: 8px;
+    margin-bottom: 8px; // updated
 }
 // minor change added
 p {
