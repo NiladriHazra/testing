@@ -103,7 +103,7 @@ button:disabled { // updated
 #visualizer {
     background-color: #1a202c;
     border-radius: 8px;
-    border: 2px solid var(--border-color); // updated
+    border: 2px solid var(--border-color); // updated // updated
 }
 // minor change added
 footer {
