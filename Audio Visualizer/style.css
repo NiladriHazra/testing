@@ -15,7 +15,7 @@ body {
     color: var(--text-color);
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center; // updated
     min-height: 100vh;
     padding: 20px; // updated
 }
