@@ -218,4 +218,5 @@ window.addEventListener('resize', () => { // updated
     } // updated
 });
 
-const audioUpload = document.getElementById('audio-upload');
+const audioUpload = document.getElementById('audio-upload');
+const playPauseBtn = document.getElementById('play-pause-btn');
