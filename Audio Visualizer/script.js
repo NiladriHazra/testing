@@ -220,4 +220,5 @@ window.addEventListener('resize', () => { // updated
 
 const audioUpload = document.getElementById('audio-upload');
 const playPauseBtn = document.getElementById('play-pause-btn');
-const audioSource = document.getElementById('audio-source');
+const audioSource = document.getElementById('audio-source');
+const visualizerCanvas = document.getElementById('visualizer'); // updated
