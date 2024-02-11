@@ -222,3 +222,4 @@ const audioUpload = document.getElementById('audio-upload');
 const playPauseBtn = document.getElementById('play-pause-btn');
 const audioSource = document.getElementById('audio-source');
 const visualizerCanvas = document.getElementById('visualizer'); // updated
+const canvasCtx = visualizerCanvas.getContext('2d');
