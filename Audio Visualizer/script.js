@@ -228,4 +228,5 @@ const canvasCtx = visualizerCanvas.getContext('2d');
 let audioCtx; // updated // updated
 let analyser; // updated
 let source;
-let isPlaying = false;
+let isPlaying = false;
+// minor change added
