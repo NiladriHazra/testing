@@ -231,4 +231,5 @@ let source;
 let isPlaying = false;
 // minor change added
 // Function to set up the Web Audio API
-function setupAudioContext() {
+function setupAudioContext() {
+    if (!audioCtx) {
