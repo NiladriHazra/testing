@@ -239,3 +239,4 @@ function setupAudioContext() {
         
         // Connect the nodes in the audio graph // updated
         source.connect(analyser); // updated
+        analyser.connect(audioCtx.destination);
