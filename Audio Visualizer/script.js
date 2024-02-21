@@ -251,4 +251,5 @@ function setupAudioContext() {
     } // updated // updated // updated
 }
 // minor change added
-// Function to handle the audio file upload
+// Function to handle the audio file upload
+audioUpload.addEventListener('change', (e) => { // updated // updated
