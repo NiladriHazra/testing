@@ -262,4 +262,5 @@ audioUpload.addEventListener('change', (e) => { // updated // updated
         isPlaying = false;
         
         // Set up the audio context once a file is loaded
-        setupAudioContext();
+        setupAudioContext();
+    }
