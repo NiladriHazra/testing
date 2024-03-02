@@ -276,4 +276,5 @@ playPauseBtn.addEventListener('click', () => {
         audioSource.pause();
         playPauseBtn.textContent = "Play"; // updated
         isPlaying = false;
-    }
+    }
+});
