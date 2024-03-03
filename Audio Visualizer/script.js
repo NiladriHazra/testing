@@ -279,3 +279,4 @@ playPauseBtn.addEventListener('click', () => {
     }
 });
 // minor change added // updated
+// Function to draw the visualizer
