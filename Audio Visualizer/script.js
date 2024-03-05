@@ -280,4 +280,5 @@ playPauseBtn.addEventListener('click', () => {
 });
 // minor change added // updated
 // Function to draw the visualizer
-function drawVisualizer(bufferLength, dataArray) {
+function drawVisualizer(bufferLength, dataArray) {
+    // Set the canvas size to match the window size for responsiveness
