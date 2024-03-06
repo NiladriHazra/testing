@@ -285,4 +285,5 @@ function drawVisualizer(bufferLength, dataArray) {
     visualizerCanvas.width = visualizerCanvas.clientWidth; // updated
     visualizerCanvas.height = visualizerCanvas.clientHeight; // updated
     
-    // Clear the canvas
+    // Clear the canvas
+    canvasCtx.clearRect(0, 0, visualizerCanvas.width, visualizerCanvas.height);
