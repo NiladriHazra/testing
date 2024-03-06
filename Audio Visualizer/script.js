@@ -286,4 +286,5 @@ function drawVisualizer(bufferLength, dataArray) {
     visualizerCanvas.height = visualizerCanvas.clientHeight; // updated
     
     // Clear the canvas
-    canvasCtx.clearRect(0, 0, visualizerCanvas.width, visualizerCanvas.height);
+    canvasCtx.clearRect(0, 0, visualizerCanvas.width, visualizerCanvas.height);
+// minor change added
