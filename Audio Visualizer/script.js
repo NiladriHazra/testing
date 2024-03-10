@@ -297,4 +297,5 @@ function drawVisualizer(bufferLength, dataArray) {
     const barWidth = (visualizerCanvas.width / bufferLength) * 2;
     let x = 0;
 // minor change added
-    for(let i = 0; i < bufferLength; i++) {
+    for(let i = 0; i < bufferLength; i++) {
+        const barHeight = dataArray[i] * 1.5;
