@@ -306,4 +306,5 @@ function drawVisualizer(bufferLength, dataArray) {
         
         // Draw the bar
         canvasCtx.fillRect(x, visualizerCanvas.height - barHeight, barWidth, barHeight); // updated
-        
+        
+        x += barWidth + 1; // Add a small gap between bars // updated
