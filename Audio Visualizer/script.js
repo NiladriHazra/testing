@@ -306,3 +306,4 @@ function drawVisualizer(bufferLength, dataArray) {
         
         // Draw the bar
         canvasCtx.fillRect(x, visualizerCanvas.height - barHeight, barWidth, barHeight); // updated
+        
