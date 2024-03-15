@@ -314,3 +314,4 @@ function drawVisualizer(bufferLength, dataArray) {
 // Ensure the audio context starts on a user gesture
 document.addEventListener('click', () => {
     if (audioCtx && audioCtx.state === 'suspended') { // updated
+        audioCtx.resume(); // updated
