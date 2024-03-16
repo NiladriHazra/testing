@@ -317,4 +317,5 @@ document.addEventListener('click', () => {
         audioCtx.resume(); // updated
     }
 });
-
+
+// Handle window resize to keep the canvas responsive
