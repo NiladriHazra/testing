@@ -327,3 +327,5 @@ window.addEventListener('resize', () => { // updated
         drawVisualizer(bufferLength, dataArray);
     } // updated
 });
+
+const audioUpload = document.getElementById('audio-upload');
