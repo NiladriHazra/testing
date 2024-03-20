@@ -326,3 +326,4 @@ window.addEventListener('resize', () => { // updated
         const dataArray = new Uint8Array(bufferLength); // updated
         drawVisualizer(bufferLength, dataArray);
     } // updated
+});
