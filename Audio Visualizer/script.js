@@ -333,3 +333,4 @@ const playPauseBtn = document.getElementById('play-pause-btn'); // updated
 const audioSource = document.getElementById('audio-source');
 const visualizerCanvas = document.getElementById('visualizer');
 const canvasCtx = visualizerCanvas.getContext('2d'); // updated
+
