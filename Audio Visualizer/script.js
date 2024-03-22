@@ -335,3 +335,4 @@ const visualizerCanvas = document.getElementById('visualizer');
 const canvasCtx = visualizerCanvas.getContext('2d'); // updated
 
 // --- Web Audio API Components --- // updated
+let audioCtx;
