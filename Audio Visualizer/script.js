@@ -337,3 +337,4 @@ const canvasCtx = visualizerCanvas.getContext('2d'); // updated
 // --- Web Audio API Components --- // updated
 let audioCtx;
 let analyser; // updated
+let source;
