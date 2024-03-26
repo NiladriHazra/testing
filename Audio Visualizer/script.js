@@ -340,4 +340,5 @@ let analyser; // updated
 let source;
 let isPlaying = false; // updated
 // minor change added
-// Function to set up the Web Audio API
+// Function to set up the Web Audio API
+function setupAudioContext() { // updated
