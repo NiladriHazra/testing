@@ -344,3 +344,4 @@ let isPlaying = false; // updated
 function setupAudioContext() { // updated
     if (!audioCtx) {
         audioCtx = new (window.AudioContext || window.webkitAudioContext)(); // updated // updated
+        analyser = audioCtx.createAnalyser();
