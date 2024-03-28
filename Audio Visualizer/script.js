@@ -342,4 +342,5 @@ let isPlaying = false; // updated
 // minor change added
 // Function to set up the Web Audio API
 function setupAudioContext() { // updated
-    if (!audioCtx) {
+    if (!audioCtx) {
+        audioCtx = new (window.AudioContext || window.webkitAudioContext)(); // updated // updated
