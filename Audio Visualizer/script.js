@@ -346,3 +346,4 @@ function setupAudioContext() { // updated
         audioCtx = new (window.AudioContext || window.webkitAudioContext)(); // updated // updated
         analyser = audioCtx.createAnalyser();
         source = audioCtx.createMediaElementSource(audioSource); // updated
+// minor change added
