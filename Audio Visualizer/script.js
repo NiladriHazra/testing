@@ -351,4 +351,5 @@ function setupAudioContext() { // updated
         source.connect(analyser); // updated
         analyser.connect(audioCtx.destination);
         
-        // Set up the analyser for frequency data
+        // Set up the analyser for frequency data
+        analyser.fftSize = 256; // updated
