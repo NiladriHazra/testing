@@ -354,4 +354,5 @@ function setupAudioContext() { // updated
         // Set up the analyser for frequency data
         analyser.fftSize = 256; // updated
         const bufferLength = analyser.frequencyBinCount; // updated
-        const dataArray = new Uint8Array(bufferLength);
+        const dataArray = new Uint8Array(bufferLength);
+        
