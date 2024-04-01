@@ -358,4 +358,5 @@ function setupAudioContext() { // updated
         
         // Start the visualization loop
         drawVisualizer(bufferLength, dataArray); // updated // updated
-    }
+    }
+} // updated // updated
