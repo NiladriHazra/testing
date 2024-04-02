@@ -360,3 +360,4 @@ function setupAudioContext() { // updated
         drawVisualizer(bufferLength, dataArray); // updated // updated
     }
 } // updated // updated
+// minor change added
