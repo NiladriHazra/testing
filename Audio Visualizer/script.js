@@ -365,4 +365,5 @@ function setupAudioContext() { // updated
 audioUpload.addEventListener('change', (e) => { // updated
     const file = e.target.files[0];
     if (file) {
-        const fileURL = URL.createObjectURL(file);
+        const fileURL = URL.createObjectURL(file);
+        audioSource.src = fileURL;
