@@ -369,4 +369,5 @@ audioUpload.addEventListener('change', (e) => { // updated
         audioSource.src = fileURL;
         playPauseBtn.disabled = false; // updated // updated // updated
         playPauseBtn.textContent = "Play";
-        isPlaying = false;
+        isPlaying = false;
+        
