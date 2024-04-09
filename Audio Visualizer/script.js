@@ -377,3 +377,4 @@ audioUpload.addEventListener('change', (e) => { // updated
 }); // updated
 
 // Function to play or pause the audio // updated
+playPauseBtn.addEventListener('click', () => {
