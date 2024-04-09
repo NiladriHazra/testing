@@ -375,4 +375,5 @@ audioUpload.addEventListener('change', (e) => { // updated
         setupAudioContext();
     } // updated // updated // updated
 }); // updated
-
+
+// Function to play or pause the audio // updated
