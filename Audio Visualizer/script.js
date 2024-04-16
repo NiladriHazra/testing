@@ -402,4 +402,5 @@ function drawVisualizer(bufferLength, dataArray) {
     requestAnimationFrame(() => drawVisualizer(bufferLength, dataArray));
     
     // Get the frequency data
-    analyser.getByteFrequencyData(dataArray);
+    analyser.getByteFrequencyData(dataArray);
+
