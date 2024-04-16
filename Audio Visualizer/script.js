@@ -398,4 +398,5 @@ function drawVisualizer(bufferLength, dataArray) {
     // Clear the canvas // updated
     canvasCtx.clearRect(0, 0, visualizerCanvas.width, visualizerCanvas.height); // updated // updated
 // minor change added
-    // Request the next frame
+    // Request the next frame
+    requestAnimationFrame(() => drawVisualizer(bufferLength, dataArray));
