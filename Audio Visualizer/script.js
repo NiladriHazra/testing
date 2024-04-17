@@ -406,3 +406,4 @@ function drawVisualizer(bufferLength, dataArray) {
 
     const barWidth = (visualizerCanvas.width / bufferLength) * 2;
     let x = 0; // updated // updated
+// minor change added
