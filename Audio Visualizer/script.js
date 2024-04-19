@@ -409,4 +409,5 @@ function drawVisualizer(bufferLength, dataArray) {
 // minor change added
     for(let i = 0; i < bufferLength; i++) { // updated // updated
         const barHeight = dataArray[i] * 1.5;
-        
+        
+        // Simple color gradient based on bar height
