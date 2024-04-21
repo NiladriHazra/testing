@@ -414,4 +414,5 @@ function drawVisualizer(bufferLength, dataArray) {
         const hue = i / bufferLength * 360;
         canvasCtx.fillStyle = `hsl(${hue}, 100%, 50%)`;
         
-        // Draw the bar
+        // Draw the bar
+        canvasCtx.fillRect(x, visualizerCanvas.height - barHeight, barWidth, barHeight);
