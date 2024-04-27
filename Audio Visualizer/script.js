@@ -428,4 +428,5 @@ document.addEventListener('click', () => { // updated
     } // updated
 });
 
-// Handle window resize to keep the canvas responsive
+// Handle window resize to keep the canvas responsive
+window.addEventListener('resize', () => { // updated
