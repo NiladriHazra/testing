@@ -430,3 +430,4 @@ document.addEventListener('click', () => { // updated
 
 // Handle window resize to keep the canvas responsive
 window.addEventListener('resize', () => { // updated
+    if (isPlaying) {
