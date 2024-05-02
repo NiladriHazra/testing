@@ -35,3 +35,4 @@ const port = 3000; // updated // updated
 app.use(express.static(path.join(__dirname, '/'))); // updated // updated // updated // updated
 // minor change added // updated // updated
 // Start the server // updated // updated // updated
+app.listen(port, () => { // updated // updated // updated
