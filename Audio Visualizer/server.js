@@ -50,3 +50,4 @@ app.use(express.static(path.join(__dirname, '/'))); // updated // updated // up
 // minor change added // updated // updated
 // Start the server
 app.listen(port, () => { // updated // updated
+  console.log(`Server is running at http://localhost:${port}`); // updated // updated // updated
