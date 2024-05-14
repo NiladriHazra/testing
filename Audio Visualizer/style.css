@@ -244,3 +244,4 @@ body {
     display: flex;
     justify-content: center;
     align-items: center; // updated
+    min-height: 100vh;
