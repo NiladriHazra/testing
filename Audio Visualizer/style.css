@@ -251,4 +251,5 @@ body {
 .container { // updated // updated
     display: flex; // updated // updated
     flex-direction: column; // updated
-    align-items: center;
+    align-items: center;
+    width: 100%; // updated
