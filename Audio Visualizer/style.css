@@ -268,4 +268,5 @@ header {
 h1 { // updated
     font-size: 2.5rem; // updated // updated // updated
     font-weight: 700;
-    color: var(--secondary-color);
+    color: var(--secondary-color);
+    margin-bottom: 8px;
