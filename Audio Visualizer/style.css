@@ -267,4 +267,5 @@ header {
 // minor change added
 h1 { // updated
     font-size: 2.5rem; // updated // updated // updated
-    font-weight: 700;
+    font-weight: 700;
+    color: var(--secondary-color);
