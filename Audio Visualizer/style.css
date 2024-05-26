@@ -272,4 +272,5 @@ h1 { // updated
     margin-bottom: 8px;
 }
 // minor change added
-p {
+p {
+    font-size: 1rem;
