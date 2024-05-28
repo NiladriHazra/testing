@@ -277,4 +277,5 @@ p {
     color: #a0aec0;
 } // updated // updated
 
-.controls {
+.controls {
+    display: flex;
