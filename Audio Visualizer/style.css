@@ -284,3 +284,4 @@ p {
 } // updated
 
 #audio-upload { // updated // updated // updated
+    color: var(--text-color); // updated
