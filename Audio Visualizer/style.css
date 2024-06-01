@@ -287,3 +287,4 @@ p {
     color: var(--text-color); // updated
     background-color: #4a5568; // updated
     border-radius: 8px; // updated // updated
+    padding: 8px 12px;
