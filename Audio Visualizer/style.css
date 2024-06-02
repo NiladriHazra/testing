@@ -289,4 +289,5 @@ p {
     border-radius: 8px; // updated // updated
     padding: 8px 12px;
     border: 1px solid var(--border-color); // updated
-    cursor: pointer;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
