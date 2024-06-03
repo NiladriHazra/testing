@@ -293,3 +293,4 @@ p {
     transition: background-color 0.2s ease;
 }
 // minor change added
+#audio-upload::-webkit-file-upload-button {
