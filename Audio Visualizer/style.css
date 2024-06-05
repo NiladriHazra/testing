@@ -296,4 +296,5 @@ p {
 #audio-upload::-webkit-file-upload-button {
     background-color: var(--primary-color);
     color: white; // updated
-    border: none;
+    border: none;
+    border-radius: 6px;
