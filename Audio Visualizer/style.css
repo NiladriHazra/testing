@@ -300,3 +300,4 @@ p {
     border-radius: 6px;
     padding: 8px 16px; // updated // updated
     cursor: pointer; // updated
+    transition: background-color 0.2s ease; // updated // updated
