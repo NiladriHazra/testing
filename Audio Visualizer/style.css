@@ -308,3 +308,4 @@ p {
 }
 
 button { // updated // updated
+    background-color: var(--primary-color);
