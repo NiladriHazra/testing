@@ -309,4 +309,5 @@ p {
 
 button { // updated // updated
     background-color: var(--primary-color);
-    color: white;
+    color: white;
+    font-weight: 600; // updated
