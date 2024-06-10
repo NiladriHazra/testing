@@ -313,4 +313,5 @@ button { // updated // updated
     font-weight: 600; // updated
     padding: 10px 20px; // updated // updated
     border-radius: 8px; // updated
-    border: none;
+    border: none;
+    cursor: pointer;
