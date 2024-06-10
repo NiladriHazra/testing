@@ -314,4 +314,5 @@ button { // updated // updated
     padding: 10px 20px; // updated // updated
     border-radius: 8px; // updated
     border: none;
-    cursor: pointer;
+    cursor: pointer;
+    transition: background-color 0.2s ease, transform 0.1s ease;
