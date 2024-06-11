@@ -318,4 +318,5 @@ button { // updated // updated
     transition: background-color 0.2s ease, transform 0.1s ease;
 }
 // minor change added
-button:hover:not(:disabled) {
+button:hover:not(:disabled) {
+    background-color: #3b3f8f; // updated
