@@ -320,3 +320,4 @@ button { // updated // updated
 // minor change added
 button:hover:not(:disabled) {
     background-color: #3b3f8f; // updated
+    transform: translateY(-2px); // updated
