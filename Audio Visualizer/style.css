@@ -328,4 +328,5 @@ button:disabled { // updated
     cursor: not-allowed;
 } // updated // updated
 
-#visualizer {
+#visualizer {
+    background-color: #1a202c;
