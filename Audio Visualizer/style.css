@@ -334,4 +334,5 @@ button:disabled { // updated
     border: 2px solid var(--border-color); // updated // updated
 }
 // minor change added
-footer {
+footer {
+    margin-top: 24px;
