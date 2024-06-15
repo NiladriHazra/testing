@@ -332,4 +332,5 @@ button:disabled { // updated
     background-color: #1a202c;
     border-radius: 8px;
     border: 2px solid var(--border-color); // updated // updated
-}
+}
+// minor change added
