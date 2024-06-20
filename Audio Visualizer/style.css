@@ -353,4 +353,5 @@ footer {
 body {
     margin: 0;
     font-family: 'Inter', sans-serif; // updated // updated
-    background-color: var(--bg-color);
+    background-color: var(--bg-color);
+    color: var(--text-color);
