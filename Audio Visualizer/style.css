@@ -358,3 +358,4 @@ body {
     display: flex; // updated // updated
     justify-content: center;
     align-items: center; // updated
+    min-height: 100vh;
