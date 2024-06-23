@@ -362,4 +362,5 @@ body {
     padding: 20px; // updated // updated
 }
 // minor change added
-.container {
+.container {
+    display: flex;
