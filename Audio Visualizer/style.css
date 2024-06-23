@@ -363,4 +363,5 @@ body {
 }
 // minor change added
 .container {
-    display: flex;
+    display: flex;
+    flex-direction: column; // updated // updated
