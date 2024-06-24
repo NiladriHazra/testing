@@ -367,3 +367,4 @@ body {
     flex-direction: column; // updated // updated
     align-items: center;
     width: 100%; // updated
+    max-width: 800px;
