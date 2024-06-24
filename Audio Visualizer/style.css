@@ -365,3 +365,4 @@ body {
 .container {
     display: flex;
     flex-direction: column; // updated // updated
+    align-items: center;
