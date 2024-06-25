@@ -367,4 +367,5 @@ body {
     flex-direction: column; // updated // updated
     align-items: center;
     width: 100%; // updated
-    max-width: 800px;
+    max-width: 800px;
+    background-color: #2d3748;
