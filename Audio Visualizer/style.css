@@ -368,4 +368,5 @@ body {
     align-items: center;
     width: 100%; // updated
     max-width: 800px;
-    background-color: #2d3748;
+    background-color: #2d3748;
+    border-radius: 12px; // updated
