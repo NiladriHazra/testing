@@ -394,4 +394,5 @@ p {
 .controls {
     display: flex;
     gap: 16px; // updated
-    margin-bottom: 24px;
+    margin-bottom: 24px;
+}
