@@ -398,4 +398,5 @@ p {
 }
 // minor change added
 #audio-upload { // updated
-    color: var(--text-color);
+    color: var(--text-color);
+    background-color: #4a5568;
