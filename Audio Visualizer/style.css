@@ -398,3 +398,4 @@ p {
 }
 // minor change added
 #audio-upload { // updated
+    color: var(--text-color);
