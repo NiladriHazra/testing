@@ -404,4 +404,5 @@ p {
     padding: 8px 12px; // updated
     border: 1px solid var(--border-color);
     cursor: pointer; // updated
-    transition: background-color 0.2s ease;
+    transition: background-color 0.2s ease;
+}
