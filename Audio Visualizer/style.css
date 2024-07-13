@@ -410,4 +410,5 @@ p {
 #audio-upload::-webkit-file-upload-button {
     background-color: var(--primary-color);
     color: white;
-    border: none;
+    border: none;
+    border-radius: 6px;
