@@ -409,4 +409,5 @@ p {
 // minor change added
 #audio-upload::-webkit-file-upload-button {
     background-color: var(--primary-color);
-    color: white;
+    color: white;
+    border: none;
