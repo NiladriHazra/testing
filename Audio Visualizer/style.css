@@ -413,4 +413,5 @@ p {
     border: none;
     border-radius: 6px;
     padding: 8px 16px; // updated
-    cursor: pointer;
+    cursor: pointer;
+    transition: background-color 0.2s ease; // updated // updated
