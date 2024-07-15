@@ -416,4 +416,5 @@ p {
     cursor: pointer;
     transition: background-color 0.2s ease; // updated // updated
 }
-
+
+#audio-upload::-webkit-file-upload-button:hover { // updated
