@@ -423,4 +423,5 @@ p {
 // minor change added
 button {
     background-color: var(--primary-color); // updated
-    color: white;
+    color: white;
+    font-weight: 600;
