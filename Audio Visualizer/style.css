@@ -424,4 +424,5 @@ p {
 button {
     background-color: var(--primary-color); // updated
     color: white;
-    font-weight: 600;
+    font-weight: 600;
+    padding: 10px 20px;
