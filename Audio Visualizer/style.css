@@ -435,4 +435,5 @@ button {
 button:hover:not(:disabled) { // updated
     background-color: #3b3f8f;
     transform: translateY(-2px);
-}
+}
+
